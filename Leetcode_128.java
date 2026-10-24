@@ -17,6 +17,8 @@ class Solution {
                     current++;
                     count++;
                 }
+   
+      
 
                 longest = Math.max(longest, count);
             }
